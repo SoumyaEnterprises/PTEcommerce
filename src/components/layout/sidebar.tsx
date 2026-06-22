@@ -99,7 +99,7 @@ export function Sidebar() {
 
       <div className="p-4 border-t border-border">
         <div className="bg-glass border border-border rounded-xl px-3 py-2.5 text-[11px] text-text-3 leading-relaxed">
-          Running on mock data for this demo. Connect Supabase later to go live — see README.
+          Running on mock data for this demo.
         </div>
       </div>
     </aside>
